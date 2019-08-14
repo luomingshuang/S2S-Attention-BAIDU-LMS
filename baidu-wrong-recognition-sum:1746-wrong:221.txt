@@ -1,0 +1,226 @@
+predict                                           |                                             truth
+-----------------------------------------------------------------------------------------------------
+diakaa fang liang                                 |                                   da kai dao hang
+kai shi dao hang                                  |                       da kai you zhuan xiang deng
+xia yiyshou                                       |                                       xia yi shou
+daokai gps                                        |                                    dao hang mo ni
+da kai zuo hhuang                                 |                                 da kai zuo chuang
+huan tai                                          |                                          suo xiao
+guan bi yin yue                                   |                               guan bi tian chuang
+jia da feng liang                                 |                                 chong xin bo fang
+guan bi gssemmh                                   |                                  guan bi zhu deng
+shang yi shou                                     |                                          shang yi
+tiang di wen du                                   |                                    tiao di wen du
+tiao xiao yin liang                               |                              jian xiao feng liang
+sha g ni sh                                       |                                           cha xun
+tia  xie                                          |                                            you yi
+zuo yi                                            |                                            you yi
+tia aha                                           |                             xun zhao xing qu dian
+chong xuan                                        |                                     xia yi ge tai
+huan tai                                          |                                           fang da
+ghang yi shou                                     |                                     shang yi shou
+tian bi  soe zhi                                  |                                  dao hang she zhi
+xia yi  hou                                       |                                       xia yi shou
+guan bi wen deng                                  |                                  guan bi wei deng
+fang d bo bo fang                                 |                                 chong xin bo fang
+kai shi dao hang                                  |                                kai qi niao kan tu
+tiao di wen du                                    |                                   jiang di wen du
+da kai ges  eng                                   |                                da kai shou yin ji
+da kai dao hang                                   |                                    da kai yin yue
+chong xin bo fang                                 |                                   guan bi yin yue
+huan tai                                          |                                           que ren
+tiang di wen du                                   |                                   jiang di wen du
+da kai wei deng                                   |                                   da kai zhu deng
+cha yi                                            |                                          shang yi
+tian qi zen me yng                                |                               tian qi zen me yang
+shang yi                                          |                                        chong xuan
+shang di wen du                                   |                                   jiang di wen du
+qi d ng kong tiao                                 |                                          suo xiao
+mu di do liu lan                                  |                                   jiang di wen du
+ja kai wei deng                                   |                                   da kai wei deng
+jienhi ji lu                                      |                                  jie shu dao hang
+qi dong yung tiao                                 |                                 qi dong kong tiao
+ji shi gi lu                                      |                                           que ren
+kai ai sho                                        |                                       xia yi shou
+jie shu dao hang                                  |                                 jie ting dian hua
+fang da                                           |                               tiao xiao yin liang
+da kai zuo chuang                                 |                             da kai zuo hou chuang
+li shi ji u                                       |                                     shang yi shou
+chong bo hao mang                                 |                      guan bi you zhuan xiang deng
+ghuan huan jin guang deng                         |                         zhuan huan jin guang deng
+fang da                                           |                                   shang yi ge tai
+da kai yao hung                                   |                                    da kai yin yue
+xia ai seden                                      |                                           cha xun
+da kai g so ynx                                   |                                           fang da
+chong xin bo fang                                 |                                       guan bi gps
+guan ni cd                                        |                                        guan bi cd
+da kai koug tiao                                  |                                  da kai kong tiao
+guan bi wei uang                                  |                                 guan bi yu gua qi
+da kai yin yue                                    |                                da kai tian chuang
+xiang yi shou                                     |                                     shang yi shou
+mi dong kong tiao                                 |                                 qi dong kong tiao
+xia yi shou                                       |                                           cha xun
+chong xuan                                        |                                           que ren
+thao xie                                          |                                          tiao xie
+xha xun                                           |                                     shang yi shou
+da kai yianyueuang                                |                                da kai tian chuang
+guan bi yin yue                                   |                            guan bi you hou chuang
+guan bi cd                                        |                                 guan bi kong tiao
+zuo han                                           |                                          shang yi
+cha x xu                                          |                                           cha xun
+shang yi                                          |                                 tiao da yin liang
+dao hang mo ni                                    |                                            zuo yi
+qi ng gi wen du                                   |                                   jiang di wen du
+kai qi gps                                        |                                  kai shi dao hang
+xia yi shou                                       |                                   da kai dao hang
+da kai shou yin ji                                |                                   da kai zhu deng
+zuo ri                                            |                                           que ren
+guan bi yin yue                                   |                               guan bi tian chuang
+da kai shou yin ji                                |                                  da kai kong tiao
+li shi ji lu                                      |                         da kai che liang jiu yuan
+guan bi wee duu                                   |                            guan bi zuo hou chuang
+guan bi tian chuang                               |                                   guan bi yin yue
+guan bi dao hang                                  |                      guan bi zuo zhuan xiang deng
+dao hang she zhi                                  |                       da kai zuo zhuan xiang deng
+da kai tian ueuang                                |                                    da kai yin yue
+da  ii g shau                                     |                               guan bi niao kan tu
+quo riao                                          |                                           que ren
+fang da                                           |                                        chong xuan
+wo  iang ting ge                                  |                                            zuo yi
+ji dong kong tiao                                 |                                  jie shu dao hang
+su nzng cd                                        |                             da kai you hou chuang
+jiao ga  wen du                                   |                                   tiao gao wen du
+qi dobg zao hg                                    |                                    da kai yin yue
+da kai zuo hou chuang                             |                                 da kai zuo chuang
+da kai gpo                                        |                       da kai you zhuan xiang deng
+qi dong dao hang xi tong                          |                          guan bi dao hang xi tong
+xia yi shou                                       |                                     shang yi shou
+da kai kang tiao                                  |                                        da kai gps
+qi d ng ken  tiao                                 |                                 qi dong kong tiao
+shang yi shou                                     |                                       xia yi shou
+co fang cd                                        |                                        chong xuan
+qi dong yu ga qi                                  |                                      li shi ji lu
+guan bi yian chuan                                |                                   guan bi yin yue
+tiao xie                                          |                                 jia da feng liang
+jie ting dian hua                                 |                               zan ting kai chuang
+guan bi shou yin ji                               |                      guan bi you zhuan xiang deng
+yu g ia                                           |                                           fang da
+qi dong kong tiao                                 |                                  da kai kong tiao
+da kai you zhuan xiang deng                       |                       da kai zuo zhuan xiang deng
+guan bi yin yue                                   |                               guan bi tian chuang
+xun zhao di zhi                                   |                                          shang yi
+da kai tian chuang                                |                             da kai you hou chuang
+xia yi shou                                       |                                     shang yi shou
+chonx xuan                                        |                                          suo xiao
+xia yi ge tai                                     |                                  mu di di liu lan
+jia da feng liang                                 |                               tiao xiao yin liang
+jiang gao wen du                                  |                              jian xiao feng liang
+jia  xiao feng liang                              |                                 jia da feng liang
+quo rin                                           |                                da kai shou yin ji
+jie shu dao hang                                  |                          qi dong dao hang xi tong
+xun yiao                                          |                                   xun zhao di zhi
+ga kai zon eng                                    |                                   da kai wei deng
+diao da yin liang                                 |                                 tiao da yin liang
+chong bi  bo fang                                 |                                 chong xin bo fang
+shang yi                                          |                                           fang da
+gu n bi gps                                       |                                       guan bi gps
+guan bi chouznanxi                                |                               guan bi shou yin ji
+xa kai gps                                        |                                        da kai gps
+shan tii                                          |                                          shang yi
+guan bi yoo hang u                                |                            guan bi you hou chuang
+xaa yi shou                                       |                                            xia yi
+zhuan huan yin guang deng                         |                        zhuan huan yuan guang deng
+guan bi zuo zhuan xiang deng                      |                                guan bi zuo chuang
+zan ting kainhu                                   |                                          suo xiao
+shang yi ge tai                                   |                                     xia yi ge tai
+da  dang mo ni                                    |                                   da kai zhu deng
+da kai whu deng                                   |                                      li shi ji lu
+xia yi ge tai                                     |                                  kai shi dao hang
+kai qi niao kan tu                                |                               guan bi niao kan tu
+guan bi dao hang                                  |                      guan bi you zhuan xiang deng
+xia z yi ge tai                                   |                                   shang yi ge tai
+xia yi ge tai                                     |                                       xia yi shou
+guan bi zuo chuang                                |                            guan bi zuo hou chuang
+jiang di wee du                                   |                                    tiao di wen du
+sia yi ge tai                                     |                                     xia yi ge tai
+guan bi zhu deug                                  |                            guan bi you hou chuang
+suo giaa                                          |                                            you yi
+shang yi                                          |                                   shang yi ge tai
+guan bi shou yin ji                               |                      guan bi you zhuan xiang deng
+xia yi                                            |                                 gua duan dian hua
+shang yi                                          |                                     shang yi shou
+zuo yi                                            |                                          suo xiao
+da kai g ao nhhanu                                |                                    da kai yin yue
+xia yi                                            |                                       xia yi shou
+da kai you zhuan xiang deng                       |                                   da kai wei deng
+ghuan huan yuan guang deng                        |                        zhuan huan yuan guang deng
+kai qhi dao hang                                  |                                kai qi niao kan tu
+da kai you hou chuang                             |                                 da kai you chuang
+xia yi shou                                       |                                      li shi ji lu
+guan tii                                          |                                   guan bi yin yue
+fang da                                           |                                          shang yi
+guan bi zhu deng                                  |                                 guan bi kong tiao
+xia yiaih                                         |                                          suo xiao
+xia yi                                            |                                  da kai kong tiao
+guan bi zhu deng                                  |                                 guan bi kong tiao
+gua dua wei n hua                                 |                            guan bi you hou chuang
+da kai shou yin ji                                |                       da kai you zhuan xiang deng
+kian i gzu                                        |                                           cha xun
+que rin                                           |                                           que ren
+da kai you chuang                                 |                                 da kai zuo chuang
+jiang di wen du                                   |                                    tiao di wen du
+da kai zuo zhuani                                 |                                   jiang di wen du
+guan bi yian chuang                               |                            guan bi you hou chuang
+da kai yin yue                                    |                                da kai tian chuang
+jia ai daog ang                                   |                                  da kai kong tiao
+kaikqi gps                                        |                               tian qi zen me yang
+caon  xuan                                        |                                  sheng gao wen du
+guan bi kong tiot                                 |                                       guan bi gps
+shang ii gao aantu                                |                               guan bi niao kan tu
+xia yi                                            |                                       xia yi shou
+shang yi ge tai                                   |                                     xia yi ge tai
+guan bi kong tiao                                 |                                   guan bi yin yue
+da kai zuu chuang                                 |                             da kai you hou chuang
+sheng gao wen du                                  |                                   tiao gao wen du
+fang da                                           |                                           cha xun
+guan bi zuo chuang                                |                            guan bi you hou chuang
+shang yi shou                                     |                                        chong xuan
+fang da                                           |                                            xia yi
+fa kai zue chu                                    |                                   jiang di wen du
+xia yi ge tai                                     |                                 tiao da yin liang
+da kai gps                                        |                                   da kai dao hang
+jia g yu d                                        |                                           que ren
+fang da                                           |                               tiao xiao yin liang
+xia yi ge tai                                     |                                   shang yi ge tai
+quo reno                                          |                                          suo xiao
+guan bi zuo chuang                                |                      guan bi zuo zhuan xiang deng
+shang yi                                          |                                            xia yi
+xia yiyshou                                       |                                     shang yi shou
+tiuo xie                                          |                                          tiao xie
+jia ai feng liang                                 |                              jian xiao feng liang
+fang da                                           |                                           cha xun
+chong xin bo fang                                 |                                 guan bi kong tiao
+qi dong kong tiao                                 |                                          tiao xie
+qu drng yq                                        |                                 qi dong yu gua qi
+dua dd fen  liang                                 |                               tian qi zen me yang
+li shi ji lu                                      |                                kai qi niao kan tu
+tiaohani she zhi                                  |                                          shang yi
+guan bi shou yin                                  |                                   guan bi yin yue
+li shi ji lu                                      |                                 jie ting dian hua
+tian qi zen me yang                               |                                 jie ting dian hua
+kain qi zen me yang                               |                               tian qi zen me yang
+que ren                                           |                                  jie shu dao hang
+guan bi zhu deng                                  |                                 guan bi kong tiao
+shnn  yg shen hu                                  |                                           fang da
+da kai geiudeng                                   |                                   tiao gao wen du
+quo xiao                                          |                                          suo xiao
+guen nn  die zhi                                  |                                  guan bi zhu deng
+xun zaa                                           |                                           que ren
+wo xiang ting ge                                  |                                            zuo yi
+guan bi yiu chuang                                |                                guan bi zuo chuang
+tiao gao wen du                                   |                                    tiao di wen du
+shag gao wen du                                   |                                   da kai dao hang
+xia y yi oh                                       |                                     shang yi shou
+-----------------------------------------------------------------------------------------------------
+cer:0.0722837386007959, wer:0.10168003054600992
+

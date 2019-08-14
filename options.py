@@ -1,0 +1,17 @@
+img_root = '/data/f/yangshuang/DATASET/BAIDU/lip_imgs'
+annotation_root = '/data/f/yangshuang/DATASET/BAIDU/sentences_data'
+trn_txt = '/data/f/yangshuang/DATASET/BAIDU/sentences_data/trn_seqs_ys.txt'
+val_txt = '/data/f/yangshuang/DATASET/BAIDU/sentences_data/val_seqs_ys.txt'
+tst_txt = '/data/f/yangshuang/DATASET/BAIDU/sentences_data/tst_seqs_ys.txt'
+max_epoch = 1000
+lr = 1e-4
+batch_size = 16
+num_workers = 4
+display = 10
+test_iter = 1000
+img_padding = 75
+text_padding = 200
+teacher_forcing_ratio = 0.0
+save_dir = 'weights'
+mode = 'backendGRU'
+weights = 'weights/me_cer_0.0757973416025833_wer_0.10644329896907218.pt'
